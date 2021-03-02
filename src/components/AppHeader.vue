@@ -7,7 +7,7 @@
             <div v-if="isLoggedIn" class="horizontal">
                 <a class="item" >Galleries</a>
                 <a class="item" >Upload</a>
-                <a class="item" >Logout</a>
+                <a class="item" @click="logout">Logout</a>
             </div>
 
 
