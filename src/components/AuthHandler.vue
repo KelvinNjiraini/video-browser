@@ -1,6 +1,6 @@
 <template>
     <div>
-        Pleae wait...
+        Please wait...
     </div>
 </template>
 
